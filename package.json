@@ -2,14 +2,29 @@
   "name": "bonezegei-stylesheet",
   "version": "1.0.0",
   "description": "A custom stylesheet for bonezegei projects",
-  "main": "dist/bonezegei-stylesheet.css",
-  "style": "dist/bonezegei-stylesheet.css",
-  "unpkg": "dist/bonezegei-stylesheet.css",
+"main": "bonezegei-stylesheet.css",
+  "style": "bonezegei-stylesheet.css",
+  "unpkg": "bonezegei-stylesheet.css",
   "files": [
-    "dist"
+    "bonezegei-stylesheet.css",
+    "README.md"
   ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bonezegei/bonezegei-stylesheet.git"
-  }
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [
+    "css",
+    "stylesheet",
+    "bonezegei"
+  ],
+  "author": "bonezegei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bonezegei/bonezegei-stylesheet/issues"
+  },
+  "homepage": "https://github.com/bonezegei/bonezegei-stylesheet#readme"
 }
