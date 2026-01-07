@@ -13,15 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/bonezegei/bonezegei-stylesheet.git"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
+
   "keywords": [
     "css",
     "stylesheet",
     "bonezegei"
   ],
-  "author": "bonezegei",
+  "author": "Jofel Batutay (Bonezegei)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bonezegei/bonezegei-stylesheet/issues"
