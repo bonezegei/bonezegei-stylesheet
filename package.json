@@ -1,1 +1,15 @@
-
+{ 
+  "name": "bonezegei-stylesheet",
+  "version": "1.0.0",
+  "description": "A custom stylesheet for bonezegei projects",
+  "main": "dist/bonezegei-stylesheet.css",
+  "style": "dist/bonezegei-stylesheet.css",
+  "unpkg": "dist/bonezegei-stylesheet.css",
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/bonezegei-stylesheet.git"
+  }
+}
