@@ -2,12 +2,11 @@
   "name": "bonezegei-stylesheet",
   "version": "1.0.1",
   "description": "A custom stylesheet for bonezegei projects",
-"main": "bonezegei-stylesheet.css",
-  "style": "bonezegei-stylesheet.css",
-  "unpkg": "bonezegei-stylesheet.css",
+  "main": "dist/bonezegei-stylesheet.css",
+  "style": "dist/bonezegei-stylesheet.css",
+  "unpkg": "dist/bonezegei-stylesheet.css",
   "files": [
-    "bonezegei-stylesheet.css",
-    "README.md"
+    "dist"
   ],
   "repository": {
     "type": "git",
